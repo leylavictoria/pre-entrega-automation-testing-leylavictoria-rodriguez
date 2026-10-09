@@ -1,0 +1,13 @@
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Cache de pytest
+.pytest_cache/
+
+# Entorno virtual (si usás uno)
+venv/
+env/
+
+# Configuración del editor
+.vscode/
